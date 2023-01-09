@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.0.9",
+    "axios": "^1.2.2",
     "element-plus": "^2.2.14",
+    "js-cookie": "^3.0.1",
     "pinia": "^2.0.20",
     "vue": "^3.2.37",
     "vue-router": "^4.1.4"
   },
   "devDependencies": {
+    "@types/js-cookie": "^3.0.2",
     "@types/node": "^18.7.10",
     "@vitejs/plugin-vue": "^3.0.3",
     "prettier": "^2.7.1",
